@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "公司规章制度培训.md",
+                "file": "k8s/kubernetes/命令.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "公司规章制度培训"
+              "title": "命令"
             }
           }
         ]
@@ -200,9 +200,11 @@
   },
   "active": "46c34eac2e6ac8cd",
   "lastOpenFiles": [
+    "公司规章制度培训.md",
+    "k8s/kubernetes/命令.md",
+    "k8s/kubernetes",
     "每周工作看板.md",
     "canvas.canvas",
-    "公司规章制度培训.md",
     "linux/网络/网络问题排查命令.md",
     "linux/网络",
     "go/go.md",
@@ -239,7 +241,6 @@
     "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
     "Excalidraw/Scripts/Downloaded/Add Next Step in Process.svg",
     "Excalidraw/Scripts/Downloaded/Add Next Step in Process.md",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts"
+    "Excalidraw/Scripts/Downloaded"
   ]
 }
