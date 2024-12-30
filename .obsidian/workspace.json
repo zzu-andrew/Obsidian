@@ -194,7 +194,8 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "command-palette:打开命令面板": false,
-      "obsidian-kanban:创建新看板": false
+      "obsidian-kanban:创建新看板": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "46c34eac2e6ac8cd",
