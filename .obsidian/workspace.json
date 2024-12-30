@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "eabf5a1acc90c101",
+    "type": "split",
+    "children": [
+      {
+        "id": "adb1a0d4143d146b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46c34eac2e6ac8cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "公司规章制度培训.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "公司规章制度培训"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0732b557ecf22ab0",
+    "type": "split",
+    "children": [
+      {
+        "id": "34e1febbf1cc7619",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffa890cc37419301",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f9f31a6fcfd7f0de",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "name",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "7af35018d0c86a5b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 266.5
+  },
+  "right": {
+    "id": "208dd91899ac8bed",
+    "type": "split",
+    "children": [
+      {
+        "id": "90e93e85ca5faf04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d78f8bdfcce20de1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "公司规章制度培训.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "公司规章制度培训 的反向链接列表"
+            }
+          },
+          {
+            "id": "b5eca27e80bf57c2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "公司规章制度培训.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "公司规章制度培训 的出链列表"
+            }
+          },
+          {
+            "id": "c11e86b54b42c7f0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "d29d5b60e291e4d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "公司规章制度培训.md"
+              },
+              "icon": "lucide-list",
+              "title": "公司规章制度培训 的大纲"
+            }
+          },
+          {
+            "id": "aa12530453186413",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "d34686387b5635aa",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "373ae9446384efb7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 399.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-kanban:创建新看板": false
+    }
+  },
+  "active": "46c34eac2e6ac8cd",
+  "lastOpenFiles": [
+    "每周工作看板.md",
+    "canvas.canvas",
+    "公司规章制度培训.md",
+    "linux/网络/网络问题排查命令.md",
+    "linux/网络",
+    "go/go.md",
+    "k8s/prometheus",
+    "k8s/calico",
+    "linux/命令行.md",
+    "Excalidraw/Scripts/Downloaded/Organic Line Legacy.svg",
+    "attachments/Pasted image 20241230141542.png",
+    "attachments",
+    "Pasted image 20241230140855.png",
+    "欢迎.md",
+    "创建链接.md",
+    "go",
+    "Excalidraw/Drawing 2024-12-30 09.57.41.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-30 10.08.22.excalidraw.md",
+    "数据.md",
+    "k8s",
+    "2024-12-30.md",
+    "linux",
+    "Ysp",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
+    "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
+    "Excalidraw/Scripts/Downloaded/Change shape of selected elements.md",
+    "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
+    "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
+    "Excalidraw/Scripts/Downloaded/Organic Line Legacy.md",
+    "Excalidraw/Scripts/Downloaded/Mindmap format.md",
+    "Excalidraw/Scripts/Downloaded/Excalidraw Writing Machine.svg",
+    "Excalidraw/Scripts/Downloaded/Excalidraw Writing Machine.md",
+    "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
+    "Excalidraw/Scripts/Downloaded/Connect elements.svg",
+    "Excalidraw/Scripts/Downloaded/Connect elements.md",
+    "Excalidraw/Scripts/Downloaded/Change shape of selected elements.svg",
+    "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
+    "Excalidraw/Scripts/Downloaded/Add Next Step in Process.svg",
+    "Excalidraw/Scripts/Downloaded/Add Next Step in Process.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts"
+  ]
+}
