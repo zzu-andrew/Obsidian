@@ -10,8 +10,6 @@
   "sortDirectionSubGroups": "new->old",
   "includeFiles": "",
   "lookAndFeel": "classic",
-  "_collapsedSections": [
-    "go/go.md"
-  ],
+  "_collapsedSections": [],
   "_hiddenTags": []
 }

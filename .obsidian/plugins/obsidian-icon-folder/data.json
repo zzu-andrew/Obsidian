@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCalendarDays",
       "LiListTodo",
       "LiNotebook",
       "LiPictureInPicture2"
@@ -33,7 +34,8 @@
     "useInternalPlugins": false
   },
   "公司规章制度培训.md": "LiNotebook",
-  "每周工作看板.md": {
+  "shorthand": "LiCalendarDays",
+  "工作看板.md": {
     "iconName": "LiListTodo",
     "iconColor": "#4bd293"
   }
