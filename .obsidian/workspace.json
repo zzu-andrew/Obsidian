@@ -11,10 +11,14 @@
             "id": "46c34eac2e6ac8cd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "公司规章制度培训.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "公司规章制度培训"
             }
           }
         ]
@@ -135,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-12-30 10.08.22.excalidraw.md"
+                "file": "公司规章制度培训.md"
               },
               "icon": "lucide-list",
-              "title": "Drawing 2024-12-30 10.08.22.excalidraw 的大纲"
+              "title": "公司规章制度培训 的大纲"
             }
           },
           {
@@ -194,13 +198,25 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "ffa890cc37419301",
+  "active": "46c34eac2e6ac8cd",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-12-30 09.57.41.excalidraw.md",
-    "Excalidraw/Drawing 2024-12-30 10.08.22.excalidraw.md",
-    "go/go.md",
-    "公司规章制度培训.md",
+    "attachments/Pasted image 20241231152057.png",
+    "attachments/Pasted image 20241231152048.png",
+    "attachments/Pasted image 20241231152035.png",
+    "attachments/Pasted image 20241231152021.png",
+    "attachments/Pasted image 20241231152006.png",
+    "attachments/Pasted image 20241231151958.png",
+    "attachments/Pasted image 20241231151948.png",
+    "attachments/Pasted image 20241231151940.png",
+    "attachments/Pasted image 20241231151931.png",
+    "attachments/Pasted image 20241231151844.png",
+    "attachments/Pasted image 20241231150610.png",
+    "attachments",
     "工作看板.md",
+    "公司规章制度培训.md",
+    "Excalidraw/Drawing 2024-12-30 10.08.22.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-30 09.57.41.excalidraw.md",
+    "go/go.md",
     "linux/网络/网络问题排查命令.md",
     "linux/命令行.md",
     "shorthand/2024-12-31.md",
@@ -211,10 +227,6 @@
     "linux/网络",
     "k8s/prometheus",
     "k8s/calico",
-    "Excalidraw/Scripts/Downloaded/Organic Line Legacy.svg",
-    "attachments/Pasted image 20241230141542.png",
-    "attachments",
-    "Pasted image 20241230140855.png",
     "欢迎.md",
     "创建链接.md",
     "go",
@@ -226,18 +238,11 @@
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
     "Excalidraw/Scripts/Downloaded/Change shape of selected elements.md",
-    "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
-    "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
     "Excalidraw/Scripts/Downloaded/Organic Line Legacy.md",
     "Excalidraw/Scripts/Downloaded/Mindmap format.md",
-    "Excalidraw/Scripts/Downloaded/Excalidraw Writing Machine.svg",
     "Excalidraw/Scripts/Downloaded/Excalidraw Writing Machine.md",
-    "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
-    "Excalidraw/Scripts/Downloaded/Connect elements.svg",
     "Excalidraw/Scripts/Downloaded/Connect elements.md",
-    "Excalidraw/Scripts/Downloaded/Change shape of selected elements.svg",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
-    "Excalidraw/Scripts/Downloaded/Add Next Step in Process.svg",
     "Excalidraw/Scripts/Downloaded/Add Next Step in Process.md"
   ]
 }
