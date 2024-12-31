@@ -11,14 +11,23 @@
             "id": "46c34eac2e6ac8cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "公司规章制度培训.md",
-                "mode": "source",
-                "source": false
+                "file": "工作看板.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "list",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "公司规章制度培训"
+              "icon": "lucide-trello",
+              "title": "工作看板"
             }
           }
         ]
@@ -139,10 +148,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "公司规章制度培训.md"
+                "file": "工作看板.md"
               },
               "icon": "lucide-list",
-              "title": "公司规章制度培训 的大纲"
+              "title": "工作看板 的大纲"
             }
           },
           {
@@ -200,6 +209,7 @@
   },
   "active": "46c34eac2e6ac8cd",
   "lastOpenFiles": [
+    "公司规章制度培训.md",
     "attachments/Pasted image 20241231152057.png",
     "attachments/Pasted image 20241231152048.png",
     "attachments/Pasted image 20241231152035.png",
@@ -210,10 +220,8 @@
     "attachments/Pasted image 20241231151940.png",
     "attachments/Pasted image 20241231151931.png",
     "attachments/Pasted image 20241231151844.png",
-    "attachments/Pasted image 20241231150610.png",
     "attachments",
     "工作看板.md",
-    "公司规章制度培训.md",
     "Excalidraw/Drawing 2024-12-30 10.08.22.excalidraw.md",
     "Excalidraw/Drawing 2024-12-30 09.57.41.excalidraw.md",
     "go/go.md",
