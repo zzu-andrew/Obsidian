@@ -14,5 +14,8 @@
   "obsidian-kanban",
   "obsidian-plantuml",
   "obsidian-tasks-plugin",
-  "github-sync"
+  "github-sync",
+  "obsidian-markmind",
+  "obsidian-full-calendar",
+  "obsidian-mindmap-nextgen"
 ]
