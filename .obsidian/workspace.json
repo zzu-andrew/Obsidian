@@ -4,49 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "adb1a0d4143d146b",
+        "id": "f58de1cc6725387b",
         "type": "tabs",
         "children": [
           {
-            "id": "46c34eac2e6ac8cd",
+            "id": "8047c2274a0d02d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "公司规章制度培训.md",
-                "mode": "source",
-                "source": false
+                "file": "工作看板.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "list",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "公司规章制度培训"
-            }
-          },
-          {
-            "id": "cbad2d4aa191b678",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "63e092a26bfefc62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "k8s/kubernetes/命令.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "命令"
+              "icon": "lucide-trello",
+              "title": "工作看板"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "公司规章制度培训.md",
+                "file": "工作看板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +112,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "公司规章制度培训 的反向链接列表"
+              "title": "工作看板 的反向链接列表"
             }
           },
           {
@@ -137,12 +121,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "公司规章制度培训.md",
+                "file": "工作看板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "公司规章制度培训 的出链列表"
+              "title": "工作看板 的出链列表"
             }
           },
           {
@@ -164,10 +148,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "k8s/kubernetes/命令.md"
+                "file": "工作看板.md"
               },
               "icon": "lucide-list",
-              "title": "命令 的大纲"
+              "title": "工作看板 的大纲"
             }
           },
           {
@@ -201,11 +185,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,58 +205,58 @@
       "command-palette:打开命令面板": false,
       "obsidian-kanban:创建新看板": false,
       "github-sync:Sync with Remote": false,
-      "workspaces:管理工作区布局": false,
-      "audio-recorder:开始/结束录音": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "random-note:开始漫游笔记": false
     }
   },
-  "active": "ffa890cc37419301",
+  "active": "8047c2274a0d02d4",
   "lastOpenFiles": [
-    "公司规章制度培训.md",
-    "attachments/Pasted image 20250103194734.png",
-    "attachments/Pasted image 20250103191933.png",
-    "attachments/Pasted image 20250103160330.png",
-    "Calendar/2024-12-30 prometheus基础学习.md",
+    "utils/attachments/Pasted image 20250108113031.png",
     "Calendar/2024-12-31 YsP相关文档学习.md",
+    "shorthand/2024-12-31.md",
+    "Calendar/2024-12-30 prometheus基础学习.md",
     "Calendar/2024-12-30 YsP概要设计文档学习.md",
-    "Calendar/2025-01-03 prometheus问题排查.md",
+    "工作看板.md",
+    "utils/工具集.md",
+    "utils/信息记录.md",
+    "k8s/prometheus/prometheus基础.md",
     "Calendar/2025-01-02 PoC节点Pending状态排查.md",
     "Calendar/2025-01-03 IPD开发流程课程学习.md",
+    "Calendar/2025-01-03 prometheus问题排查.md",
+    "Excalidraw/Drawing 2025-01-09 14.06.18.excalidraw.md",
+    "公司规章制度培训.md",
+    "attachments/Pasted image 20250109185550.png",
+    "attachments/Pasted image 20250109185511.png",
+    "attachments/Pasted image 20250109185240.png",
+    "attachments/Pasted image 20250109184858.png",
+    "attachments/Pasted image 20250109184848.png",
+    "attachments/Pasted image 20250109184624.png",
+    "attachments/Pasted image 20250109184430.png",
+    "attachments/Pasted image 20250109184234.png",
+    "attachments/Pasted image 20250109184208.png",
+    "attachments/Pasted image 20250109183517.png",
+    "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.md",
+    "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
+    "Excalidraw/Scripts/Downloaded/Copy Selected Element Styles to Global.md",
+    "Excalidraw/Scripts/Downloaded/Change shape of selected elements.md",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
+    "Excalidraw/Scripts/Downloaded",
+    "linux/网络/网络问题排查命令.md",
+    "k8s/kubernetes/命令.md",
+    "linux/命令行.md",
+    "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
+    "Excalidraw/Scripts/Downloaded/Excalidraw Writing Machine.md",
+    "Excalidraw/Scripts/Downloaded/Mindmap format.md",
+    "Excalidraw/Scripts/Downloaded/Add Next Step in Process.md",
+    "utils/attachments",
+    "utils",
+    "k8s/prometheus/attachments",
     "Calendar",
     "attachments",
-    "工作看板.md",
-    "k8s/kubernetes/命令.md",
-    "attachments/Pasted image 20241231152057.png",
-    "attachments/Pasted image 20241231152048.png",
-    "attachments/Pasted image 20241231152035.png",
-    "attachments/Pasted image 20241231152021.png",
-    "attachments/Pasted image 20241231152006.png",
-    "attachments/Pasted image 20241231151958.png",
-    "attachments/Pasted image 20241231151948.png",
-    "Excalidraw/Drawing 2024-12-30 10.08.22.excalidraw.md",
-    "Excalidraw/Drawing 2024-12-30 09.57.41.excalidraw.md",
-    "go/go.md",
-    "linux/网络/网络问题排查命令.md",
-    "linux/命令行.md",
-    "shorthand/2024-12-31.md",
     "shorthand",
     "k8s/kubernetes",
     "canvas.canvas",
     "linux/网络",
-    "k8s/prometheus",
-    "k8s/calico",
-    "欢迎.md",
-    "创建链接.md",
-    "go",
-    "数据.md",
-    "k8s",
-    "2024-12-30.md",
-    "linux",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
-    "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
-    "Excalidraw/Scripts/Downloaded/Change shape of selected elements.md",
-    "Excalidraw/Scripts/Downloaded/Organic Line Legacy.md",
-    "Excalidraw/Scripts/Downloaded/Mindmap format.md",
-    "Excalidraw/Scripts/Downloaded/Excalidraw Writing Machine.md"
+    "k8s/prometheus"
   ]
 }

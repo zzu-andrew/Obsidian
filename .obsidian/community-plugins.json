@@ -5,7 +5,6 @@
   "obsidian-checklist-plugin",
   "editing-toolbar",
   "highlightr-plugin",
-  "obsidian-mind-map",
   "obsidian-pandoc",
   "quick-latex",
   "any-block",
@@ -17,5 +16,10 @@
   "github-sync",
   "obsidian-markmind",
   "obsidian-full-calendar",
-  "obsidian-mindmap-nextgen"
+  "obsidian-mindmap-nextgen",
+  "obsidian-mind-map",
+  "advanced-canvas",
+  "better-fn",
+  "better-export-pdf",
+  "better-word-count"
 ]
