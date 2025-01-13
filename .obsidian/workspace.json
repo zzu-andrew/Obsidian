@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作看板.md",
+                "file": "go/go.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "工作看板 的反向链接列表"
+              "title": "go 的反向链接列表"
             }
           },
           {
@@ -121,12 +121,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作看板.md",
+                "file": "go/go.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "工作看板 的出链列表"
+              "title": "go 的出链列表"
             }
           },
           {
@@ -148,10 +148,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作看板.md"
+                "file": "go/go.md"
               },
               "icon": "lucide-list",
-              "title": "工作看板 的大纲"
+              "title": "go 的大纲"
             }
           },
           {
@@ -211,14 +211,15 @@
   },
   "active": "8047c2274a0d02d4",
   "lastOpenFiles": [
+    "shorthand/2024-12-31.md",
+    "go/go.md",
+    "utils/信息记录.md",
+    "工作看板.md",
     "utils/attachments/Pasted image 20250108113031.png",
     "Calendar/2024-12-31 YsP相关文档学习.md",
-    "shorthand/2024-12-31.md",
     "Calendar/2024-12-30 prometheus基础学习.md",
     "Calendar/2024-12-30 YsP概要设计文档学习.md",
-    "工作看板.md",
     "utils/工具集.md",
-    "utils/信息记录.md",
     "k8s/prometheus/prometheus基础.md",
     "Calendar/2025-01-02 PoC节点Pending状态排查.md",
     "Calendar/2025-01-03 IPD开发流程课程学习.md",
@@ -234,7 +235,6 @@
     "attachments/Pasted image 20250109184430.png",
     "attachments/Pasted image 20250109184234.png",
     "attachments/Pasted image 20250109184208.png",
-    "attachments/Pasted image 20250109183517.png",
     "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.md",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
     "Excalidraw/Scripts/Downloaded/Copy Selected Element Styles to Global.md",
