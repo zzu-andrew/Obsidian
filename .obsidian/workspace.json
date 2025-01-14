@@ -11,23 +11,14 @@
             "id": "8047c2274a0d02d4",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "工作看板.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "list",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "k8s/prometheus/prometheus基础.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "工作看板"
+              "icon": "lucide-file",
+              "title": "prometheus基础"
             }
           }
         ]
@@ -211,10 +202,11 @@
   },
   "active": "8047c2274a0d02d4",
   "lastOpenFiles": [
+    "linux/网络/网络问题排查命令.md",
+    "工作看板.md",
     "shorthand/2024-12-31.md",
     "go/go.md",
     "utils/信息记录.md",
-    "工作看板.md",
     "utils/attachments/Pasted image 20250108113031.png",
     "Calendar/2024-12-31 YsP相关文档学习.md",
     "Calendar/2024-12-30 prometheus基础学习.md",
@@ -241,7 +233,6 @@
     "Excalidraw/Scripts/Downloaded/Change shape of selected elements.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
     "Excalidraw/Scripts/Downloaded",
-    "linux/网络/网络问题排查命令.md",
     "k8s/kubernetes/命令.md",
     "linux/命令行.md",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
