@@ -25,3 +25,14 @@ http://10.161.40.240:30090/config
 
 
 
+
+
+
+
+
+- kube state metrics 指标
+
+```plaintext
+sum(kube_pod_container_status_restarts_total) by (pod)
+sum(kube_pod_status_phase{phase!="Running"}) by (namespace, phase)
+```

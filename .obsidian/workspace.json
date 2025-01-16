@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "k8s/prometheus/prometheus基础.md",
+                "file": "go/go code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prometheus基础"
+              "title": "go code"
             }
           }
         ]
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 454.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,26 +197,38 @@
       "obsidian-kanban:创建新看板": false,
       "github-sync:Sync with Remote": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "random-note:开始漫游笔记": false
+      "random-note:开始漫游笔记": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "8047c2274a0d02d4",
   "lastOpenFiles": [
-    "linux/网络/网络问题排查命令.md",
-    "工作看板.md",
-    "shorthand/2024-12-31.md",
     "go/go.md",
+    "go/go code.md",
+    "k8s/etcd/etcd.md",
+    "Calendar/2025-01-15.md",
+    "k8s/etcd",
+    "Calendar/2025-01-14.md",
+    "Calendar/2025-01-13.md",
+    "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.md",
+    "2024-12-30.md",
+    "shorthand/2024-12-31.md",
+    "linux/命令行.md",
+    "k8s/prometheus/prometheus基础.md",
+    "k8s/prometheus/attachments/architecture.svg",
+    "k8s/kubernetes/命令.md",
+    "Excalidraw/Drawing 2025-01-09 14.06.18.excalidraw.md",
+    "工作看板.md",
     "utils/信息记录.md",
+    "utils/工具集.md",
+    "linux/网络/网络问题排查命令.md",
     "utils/attachments/Pasted image 20250108113031.png",
     "Calendar/2024-12-31 YsP相关文档学习.md",
     "Calendar/2024-12-30 prometheus基础学习.md",
     "Calendar/2024-12-30 YsP概要设计文档学习.md",
-    "utils/工具集.md",
-    "k8s/prometheus/prometheus基础.md",
     "Calendar/2025-01-02 PoC节点Pending状态排查.md",
     "Calendar/2025-01-03 IPD开发流程课程学习.md",
     "Calendar/2025-01-03 prometheus问题排查.md",
-    "Excalidraw/Drawing 2025-01-09 14.06.18.excalidraw.md",
     "公司规章制度培训.md",
     "attachments/Pasted image 20250109185550.png",
     "attachments/Pasted image 20250109185511.png",
@@ -226,19 +238,9 @@
     "attachments/Pasted image 20250109184624.png",
     "attachments/Pasted image 20250109184430.png",
     "attachments/Pasted image 20250109184234.png",
-    "attachments/Pasted image 20250109184208.png",
-    "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.md",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
     "Excalidraw/Scripts/Downloaded/Copy Selected Element Styles to Global.md",
-    "Excalidraw/Scripts/Downloaded/Change shape of selected elements.md",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
     "Excalidraw/Scripts/Downloaded",
-    "k8s/kubernetes/命令.md",
-    "linux/命令行.md",
-    "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
-    "Excalidraw/Scripts/Downloaded/Excalidraw Writing Machine.md",
-    "Excalidraw/Scripts/Downloaded/Mindmap format.md",
-    "Excalidraw/Scripts/Downloaded/Add Next Step in Process.md",
     "utils/attachments",
     "utils",
     "k8s/prometheus/attachments",
@@ -247,7 +249,6 @@
     "shorthand",
     "k8s/kubernetes",
     "canvas.canvas",
-    "linux/网络",
-    "k8s/prometheus"
+    "linux/网络"
   ]
 }
