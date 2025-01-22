@@ -95,3 +95,33 @@ spec:
 ```
 
 
+
+
+## `kube-promethsu`
+
+
+- 使用 `kube-prometheus` 安装 `prometheus`
+```bash
+$ kubectl apply -f manifests/setup
+$ kubectl apply -f manifests/
+```
+
+- 从集群中删除 `prometheus`
+
+```bash
+$ kubectl delete --ignore-not-found=true-f manifests/ -f manifests/setup
+```
+
+- 或者为了简单可以使用 `-Rf` 参数进行 `apply` 但是可能需要执行多次，因为有些 `components` 之间是有依赖的
+
+```bash
+$ kubectl apply --server-side -Rf manifests
+```
+
+
+启动 `promehteus` 
+
+```bash
+kubectl create -f setup/  
+kubectl create -f ./
+```

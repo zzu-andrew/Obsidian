@@ -11,24 +11,14 @@
             "id": "8047c2274a0d02d4",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "工作看板.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "list",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Calendar/2025-01-21.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "工作看板"
+              "icon": "lucide-file",
+              "title": "2025-01-21"
             }
           }
         ]
@@ -213,13 +203,16 @@
   },
   "active": "8047c2274a0d02d4",
   "lastOpenFiles": [
-    "k8s/prometheus/prometheus基础.md",
     "k8s/kubernetes/命令.md",
+    "Calendar/2025-01-21.md",
+    "k8s/kubernetes/模块.md",
+    "k8s/prometheus/prometheus基础.md",
+    "Calendar/2025-01-20.md",
+    "工作看板.md",
     "k8s/kubernetes/attachments/Pasted image 20250120145616.png",
     "k8s/kubernetes/attachments",
     "linux/网络/chaosblade.md",
     "k8s/etcd/etcd.md",
-    "工作看板.md",
     "utils/工具集.md",
     "utils/信息记录.md",
     "linux/命令行.md",
@@ -241,8 +234,6 @@
     "Calendar/2024-12-31 YsP相关文档学习.md",
     "Calendar/2024-12-30 prometheus基础学习.md",
     "Calendar/2024-12-30 YsP概要设计文档学习.md",
-    "Calendar/2025-01-02 PoC节点Pending状态排查.md",
-    "Calendar/2025-01-03 IPD开发流程课程学习.md",
     "attachments/Pasted image 20250109185550.png",
     "attachments/Pasted image 20250109185511.png",
     "attachments/Pasted image 20250109185240.png",
