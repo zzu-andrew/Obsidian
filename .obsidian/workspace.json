@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "k8s/prometheus/prometheus基础.md",
+                "file": "k8s/kubernetes/k3s.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prometheus基础"
+              "title": "k3s"
             }
           }
         ]
@@ -214,11 +214,12 @@
   },
   "active": "8047c2274a0d02d4",
   "lastOpenFiles": [
+    "k8s/kubernetes/命令.md",
+    "k8s/kubernetes/k3s.md",
+    "k8s/prometheus/prometheus基础.md",
     "k8s/docker/docker加载的软件.md",
     "工作看板.md",
     "k8s/docker",
-    "k8s/prometheus/prometheus基础.md",
-    "k8s/kubernetes/命令.md",
     "k8s/kubernetes/attachments/Pasted image 20250120145616.png",
     "k8s/kubernetes/attachments",
     "linux/网络/chaosblade.md",
@@ -245,7 +246,6 @@
     "Calendar/2024-12-30 prometheus基础学习.md",
     "Calendar/2024-12-30 YsP概要设计文档学习.md",
     "Calendar/2025-01-02 PoC节点Pending状态排查.md",
-    "Calendar/2025-01-03 IPD开发流程课程学习.md",
     "attachments/Pasted image 20250109185550.png",
     "attachments/Pasted image 20250109185511.png",
     "attachments/Pasted image 20250109185240.png",
