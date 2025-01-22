@@ -174,9 +174,19 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "50c26214fa7a1d83",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -198,7 +208,8 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "github-sync:Sync with Remote": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "8047c2274a0d02d4",
