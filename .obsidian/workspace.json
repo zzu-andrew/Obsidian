@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "linux/命令行.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "命令行"
             }
           }
         ],
@@ -247,12 +247,12 @@
   "active": "e3d84d557abbf959",
   "lastOpenFiles": [
     "k8s/prometheus/prometheus基础.md",
-    "未命名.md",
+    "k8s/etcd/etcd.md",
     "shorthand/2024-12-31.md",
+    "未命名.md",
     "k8s/kubernetes/k3s.md",
     "linux/命令行.md",
     "k8s/docker/docker加载的软件.md",
-    "k8s/etcd/etcd.md",
     "Calendar/2025-01-21.md",
     "k8s/docker",
     "k8s/kubernetes/命令.md",
