@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "k8s/kubernetes/命令.md",
+                "file": "k8s/calico/网络.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "命令"
+              "title": "网络"
             }
           }
         ],
@@ -246,9 +246,9 @@
   },
   "active": "e3d84d557abbf959",
   "lastOpenFiles": [
+    "k8s/kubernetes/命令.md",
     "k8s/kubernetes/组件.md",
     "k8s/kubernetes/网络.md",
-    "k8s/kubernetes/命令.md",
     "k8s/kubernetes/k3s.md",
     "k8s/calico/网络.md",
     "Calendar/2025-01-13.md",
