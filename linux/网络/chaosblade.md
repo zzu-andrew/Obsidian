@@ -33,3 +33,45 @@
 ```
 
 
+
+
+
+
+## 内存占用
+
+
+| --mem-percent string | 内存使用率，取值是 0 到 100 的整数                                                                                 |
+| -------------------- | ----------------------------------------------------------------------------------------------------- |
+| --mode string        | 内存占用模式，有 ram 和 cache 两种，例如 --mode ram。ram 采用代码实现，可控制占用速率，优先推荐此模式；cache 是通过挂载tmpfs实现；默认值是 --mode cache |
+| --reserve string     | 保留内存的大小，单位是MB，如果 mem-percent 参数存在，则优先使用 mem-percent 参数                                                |
+| --rate string        | 内存占用速率，单位是 MB/S，仅在 --mode ram 时生效                                                                     |
+| --timeout string     | 设定运行时长，单位是秒，通用参数                                                                                      |
+
+
+```bash
+# 执行内存占用 50%
+./blade c mem load --mode ram --mem-percent 50 -timeout 3600
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[chaosblade](https://chaosblade-io.gitbook.io/chaosblade-help-zh-cn/blade-create-mem-load)
