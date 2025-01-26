@@ -42,6 +42,9 @@ sum(kube_pod_status_phase{phase!="Running"}) by (namespace, phase)
 
 
 
+
+
+
 ```bash
 # 报警规则目录
 # alertmanager.yaml要用kubectl create secret generic alertmanager-main --from-file=alertmanager.yaml -n base-services这样加进去
