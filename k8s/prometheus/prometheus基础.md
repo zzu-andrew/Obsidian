@@ -26,6 +26,9 @@ http://10.161.40.240:30090/config
 
 
 
+
+
+
 up{job="kubelet"}
 
 
