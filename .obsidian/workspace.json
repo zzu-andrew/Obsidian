@@ -241,8 +241,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "github-sync:Sync with Remote": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "periodic-notes:Open today": false
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
   "active": "23fef4fb7047f864",
