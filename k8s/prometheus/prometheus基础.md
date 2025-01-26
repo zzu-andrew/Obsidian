@@ -139,3 +139,15 @@ kubectl create -f ./
 
 
 >>>>>>> ab486d3337d20f9aa163b786caeec42c798bce40
+
+
+
+
+
+
+
+## node_export 
+
+- node export 支持黑白名单，可以裁减掉部分指标的采集，这样才能降低之对主机性能的消耗
+- 支持采集指定目录下符合指标标准的数据
+- prometheus可以通过 `param` 配置指定 `node_export` 采集哪些数据，相当于prometheus采集数据时可以指定白名单
