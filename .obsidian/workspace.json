@@ -246,10 +246,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "23fef4fb7047f864",
+  "active": "ffa890cc37419301",
   "lastOpenFiles": [
-    "k8s/kubernetes/命令.md",
+    "未命名.md",
     "k8s/kubernetes/基础知识.md",
+    "linux/vim.md",
+    "k8s/kubernetes/命令.md",
     "k8s/kubernetes/网络.md",
     "k8s/kubernetes/组件.md",
     "k8s/prometheus/prometheus基础.md",
@@ -262,7 +264,6 @@
     "k8s/kubernetes/attachments/image-20250124145039510.png",
     "Excalidraw/Drawing 2025-01-24 14.24.58.excalidraw.md",
     "Excalidraw/Drawing 2025-01-09 14.06.18.excalidraw.md",
-    "未命名.md",
     "2025-01-24.md",
     "Calendar/2025-01-21.md",
     "Calendar/2025-01-20.md",
@@ -277,7 +278,6 @@
     "linux/网络/网络问题排查命令.md",
     "k8s/calico/网络.md",
     "k8s/kubernetes/k3s.md",
-    "shorthand/2024-12-31.md",
     "k8s/docker",
     "k8s/kubernetes/attachments",
     "k8s/etcd",
