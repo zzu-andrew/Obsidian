@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "k8s/kubernetes/组件.md",
+                "file": "Calendar/2025-02-08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "组件"
+              "title": "2025-02-08"
             }
           }
         ],
@@ -254,7 +254,6 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "command-palette:打开命令面板": false,
       "obsidian-kanban:创建新看板": false,
-      "github-sync:Sync with Remote": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "random-note:开始漫游笔记": false,
       "periodic-notes:Open today": false
@@ -262,8 +261,13 @@
   },
   "active": "0fa17873749e52b1",
   "lastOpenFiles": [
-    "k8s/kubernetes/命令.md",
+    "Calendar/2025-02-06.md",
+    "Calendar/2025-02-08.md",
+    "Calendar/2025-01-20.md",
+    "Calendar/2025-01-21.md",
+    "Calendar/2025-01-23.md",
     "k8s/kubernetes/组件.md",
+    "k8s/kubernetes/命令.md",
     "k8s/kubernetes/基础知识.md",
     "k8s/kubernetes/网络.md",
     "k8s/kubernetes/k3s.md",
@@ -271,11 +275,7 @@
     "k8s/kubernetes/attachments/Pasted image 20250207111351.png",
     "k8s/kubernetes/attachments/Pasted image 20250207111226.png",
     "k8s/kubernetes/attachments/Pasted image 20250207111214.png",
-    "Calendar/2025-02-06.md",
-    "Calendar/2025-01-23.md",
-    "Calendar/2025-01-21.md",
     "工作看板.md",
-    "Calendar/2025-01-20.md",
     "k8s/kubernetes/attachments/Pasted image 20250205145811.png",
     "k8s/kubernetes/attachments/Pasted image 20250205113558.png",
     "k8s/kubernetes/attachments/Pasted image 20250205111925.png",
@@ -297,7 +297,6 @@
     "Calendar/2025-01-15.md",
     "Calendar/2025-01-14.md",
     "k8s/etcd/etcd.md",
-    "linux/网络/chaosblade.md",
     "k8s/docker",
     "k8s/kubernetes/attachments",
     "k8s/etcd",
