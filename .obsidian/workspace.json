@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "k8s/kubernetes/基础知识.md",
+                "file": "k8s/kubernetes/k3s.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基础知识"
+              "title": "k3s"
             }
           }
         ],
@@ -275,10 +275,10 @@
   },
   "active": "b5a7ef90bbbbdaec",
   "lastOpenFiles": [
+    "k8s/kubernetes/基础知识.md",
     "k8s/kubernetes/命令.md",
     "k8s/kubernetes/网络.md",
     "k8s/kubernetes/组件.md",
-    "k8s/kubernetes/基础知识.md",
     "Untitled.md",
     "Calendar/2025-02-12.md",
     "linux/组件.md",
