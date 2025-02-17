@@ -179,7 +179,7 @@ sudo snap install helm --classic
 # Linux（FreeBSD）  
 pkg install helm  
   
-  
+
 
 使用脚本安装
 
