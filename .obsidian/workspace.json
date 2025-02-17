@@ -256,7 +256,8 @@
       "obsidian-kanban:创建新看板": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "random-note:开始漫游笔记": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "0fa17873749e52b1",
