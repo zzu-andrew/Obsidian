@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "问题猜测.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "问题猜测"
             }
           }
         ],
@@ -276,13 +276,13 @@
   },
   "active": "2c4a4c6bc5d9ae2a",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Calendar/2025-02-12.md",
     "未命名.md",
     "linux/组件.md",
-    "Untitled.md",
     "linux/命令行.md",
     "k8s/kubernetes/命令.md",
     "k8s/kubernetes/网络.md",
-    "Calendar/2025-02-12.md",
     "k8s/kubernetes/基础知识.md",
     "k8s/kubernetes/k3s.md",
     "k8s/kubernetes/组件.md",
