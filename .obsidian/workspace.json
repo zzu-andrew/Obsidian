@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "k8s/kubernetes/命令.md",
+                "file": "linux/git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "命令"
+              "title": "git"
             }
           }
         ],
@@ -256,7 +256,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
@@ -276,14 +275,15 @@
   },
   "active": "2c4a4c6bc5d9ae2a",
   "lastOpenFiles": [
-    "Calendar/2025-02-12.md",
     "Calendar/2025-02-17.md",
+    "linux/git.md",
+    "k8s/kubernetes/命令.md",
+    "Calendar/2025-02-12.md",
     "问题猜测.md",
     "Untitled.md",
     "未命名.md",
     "linux/组件.md",
     "linux/命令行.md",
-    "k8s/kubernetes/命令.md",
     "k8s/kubernetes/网络.md",
     "k8s/kubernetes/基础知识.md",
     "k8s/kubernetes/k3s.md",
@@ -311,7 +311,6 @@
     "Excalidraw/Drawing 2025-01-24 14.24.58.excalidraw.md",
     "Excalidraw/Drawing 2025-01-09 14.06.18.excalidraw.md",
     "2025-01-24.md",
-    "Calendar/2025-01-13.md",
     "k8s/docker",
     "k8s/kubernetes/attachments",
     "k8s/etcd",
